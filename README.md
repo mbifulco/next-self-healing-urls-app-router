@@ -1,3 +1,5 @@
+[![How to set up self-healing URLs in Next.js for better SEO cover image](/www/cover.webp)](https://mikebifulco.com/posts/posts/self-healing-urls-nextjs-seo)
+
 # This repo accompanies a blog post about [How to set up self-healing URLs in Next.js for better SEO](https://mikebifulco.com/posts/posts/self-healing-urls-nextjs-seo)
 
 You may want to [read the blog post first](posts/self-healing-urls-nextjs-seo), but if you're just here for the code, go ahead and clone the repo and run `npm install` to get started!
